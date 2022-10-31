@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - Computers
 - Coding
-- Shenanigans :P
+- Tech related stuff
 - 📫 How to reach me ...
 - Discord: ironswordX#1954
 - Email (Outlook): ironswordXstar@outlook.com
