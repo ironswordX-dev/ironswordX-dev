@@ -7,6 +7,7 @@
 - Discord: ironswordX#1954
 - Email: ironswordXstar@outlook.com
 - Twitch: ironswordX
+- Replit: @AlexanderMayer1
 
 <!---
 ironswordX-dev/ironswordX-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
