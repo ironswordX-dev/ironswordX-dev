@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ironswordX-dev
+- 👋 Hi, I’m Alexander Mayer (@ironswordX-dev)
 - 👀 I’m interested in ...
 - Computers
 - Coding
