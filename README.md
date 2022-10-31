@@ -5,7 +5,8 @@
 - Shenanigans :P
 - 📫 How to reach me ...
 - Discord: ironswordX#1954
-- Email: ironswordXstar@outlook.com
+- Email (Outlook): ironswordXstar@outlook.com
+- Email (GMail): armayer2012@gmail.com
 - Twitch: ironswordX
 - Replit: @AlexanderMayer1
 
